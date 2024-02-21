@@ -1,0 +1,48 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+build/
+*.log
+
+# Ignore environment variables file
+.env
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore IDE and text editor files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.pyc
+*.class
+
+# Ignore dependencies
+/bin/
+/obj/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore test directories
+__tests__/
+test/
+
+# Ignore coverage output
+coverage/
