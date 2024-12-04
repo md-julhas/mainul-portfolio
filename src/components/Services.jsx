@@ -26,7 +26,7 @@ const Services = () => {
             >
               <img src={item.icon} alt="email listing" className="h-16 mb-3" />
               <b
-                className="capitalize"
+                className="capitalize text-center"
                 style={{ color: isHovered === item.title && themeColor }}
               >
                 {item.title}
