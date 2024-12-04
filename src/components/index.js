@@ -1,0 +1,13 @@
+export { default as Button } from "./Button"
+export { default as BorderButton } from "./BorderButton"
+export { default as SettingsIcon } from "./SettingsIcon"
+export { default as ThemeSettings } from "./ThemeSettings"
+export { default as HobbiesCard } from "./Card"
+
+export { default as Navbar } from "./Navbar"
+export { default as Hero } from "./Hero"
+export { default as MyIntro } from "./MyIntro"
+export { default as Services } from "./Services"
+export { default as Portfolio } from "./Porfolio"
+export { default as Contact } from "./Contact"
+export { default as Footer } from "./Footer"
