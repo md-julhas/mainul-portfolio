@@ -29,11 +29,3 @@ This is a modern, responsive, and interactive portfolio built to showcase my ski
 - Contact form to get in touch with me easily.
 - Includes essential contact details.
 
-## 📁 Project Structure
-
-```plaintext
-├── index.html
-├── css/
-├── js/
-├── assets/
-└── README.md
