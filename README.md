@@ -1,31 +1,24 @@
-# Personal Portfolio – Mohiuddin Mainul
+# Data Entry & Lead Generation Portfolio – Mohiuddin Mainul
 
-Welcome to my personal portfolio website!  
-🔗 [Live Website](https://md-julhas.github.io/mainul-portfolio/)
-
-This is a modern, responsive, and interactive portfolio built to showcase my skills, services, and projects. It’s crafted with accessibility, usability, and user experience in mind.
+This is a portfolio website to showcase data entry and lead generation expertise. It demonstrates the ability to provide accurate, efficient, and business-driven data solutions tailored to clients' specific needs.
 
 ## ✨ Features
+- Hero Introduction (Professional intro with name, title, and value-driven summary)
+- Services Section (Clear list of offered services like Data Entry, Web Research, etc.)  
+- Portfolio Showcase (Examples of completed client projects and use cases)  
+- Hobbies & Interests (Personal insights to humanize the profile)  
+- Contact Page (Easy way for clients to reach out directly)  
+- Responsive Design (Mobile-first design)   
+- Clean UI/UX (Focused on readability and trust-building content)
 
-### 🌗 Theme Settings
-- **Light Mode**
-- **Dark Mode**
-- **System Default**
-- **Theme Color Selection**
-- **Reset Theme Option**
+- Light Mode
+- Dark Mode
+- System Defaul
+- Theme Color Selection
+- Reset Theme Option
 
-### 🧭 Navigation
-- Smooth scrolling to sections on navigation item click.
-- Responsive menu for better usability across devices.
 
-### 🛠️ Services Section
-- Highlights my core services and offerings in a clean, organized layout.
-
-### 🖼️ Portfolio Image Gallery
-- Displays my projects and work visually.
-- Interactive image gallery for an immersive viewing experience.
-
-### 📞 Contact Section
-- Contact form to get in touch with me easily.
-- Includes essential contact details.
-
+## 🛠 Technologies Used
+- HTML5, CSS3
+- Tailwind CSS
+- React.js
