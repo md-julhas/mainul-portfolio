@@ -16,7 +16,7 @@ This is a portfolio website to showcase data entry and lead generation expertise
 
 - Light Mode
 - Dark Mode
-- System Defaul
+- System Default
 - Theme Color Selection
 - Reset Theme Option
 
