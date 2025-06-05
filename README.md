@@ -8,7 +8,7 @@ This is a portfolio website to showcase data entry and lead generation expertise
 
 - Hero Introduction (Professional intro with name, title, and value-driven summary)
 - Services Section (Clear list of offered services like Data Entry, Web Research, etc.)
-- Portfolio Showcase (Examples of completed client projects and use cases)
+- Portfolio Showcase
 - Hobbies & Interests (Personal insights to humanize the profile)
 - Contact Page (Easy way for clients to reach out directly)
 - Responsive Design (Mobile-first design)
