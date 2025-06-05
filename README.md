@@ -11,7 +11,7 @@ This is a portfolio website to showcase data entry and lead generation expertise
 - Portfolio Showcase
 - Hobbies & Interests (Personal insights to humanize the profile)
 - Contact Page (Easy way for clients to reach out directly)
-- Responsive Design (Mobile-first design)
+- Responsive Design (Mobile-first)
 - Clean UI/UX (Focused on readability and trust-building content)
 
 - Light Mode
